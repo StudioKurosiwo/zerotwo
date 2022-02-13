@@ -1,0 +1,19 @@
+{
+    "email": "studiokurosiwo@gmail.com",
+    "location" : "London",
+    "socials" : [
+        {
+            "name": "twitter",
+            "url" : "https://twitter.com/studiokurosiwo"
+        },
+        {
+            "name": "instagram",
+            "url" : "https://www.instagram.com/studio_kurosiwo"
+        },
+
+        {
+            "name": "github",
+            "url" : "https://github.com/Studiokurosiwo"
+        }
+    ]
+}

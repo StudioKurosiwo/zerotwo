@@ -1,0 +1,19 @@
+{% extends "layouts/simple.njk" %}
+
+{% block postContent %}
+{% for works in collections.works %}
+    {{ works.data.title }}
+{% endfor %}
+
+<div class="wrapper">
+  <header class="header">My header</header>
+  <aside class="sidebar">Sidebar</aside>
+  <article class="content">
+    <h1>2 column, header and footer</h1>
+    <p>This example uses line-based positioning, to position the header and footer, stretching them across the grid.</p>
+  </article>
+  <footer class="footer">My footer</footer>
+</div>
+
+
+{% endblock postContent %}
