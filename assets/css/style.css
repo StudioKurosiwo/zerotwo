@@ -1222,3 +1222,8 @@ section {
 h2.abt {
   padding-left: 11%;
 }
+
+.bx.bxl-twitter,
+.bx.bxl-instagram {
+  margin-right: 5px;
+}

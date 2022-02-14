@@ -33,28 +33,33 @@ description: "The Online presence of Web Designer and Front-End Developer Sipo S
                 <p>{{ settings.email }}</p>
               </div>
 
-              <div class="social">
-                <i class="bi bi-envelope"></i>
+            <!-- =======  <div class="social">
+                <i class="bi bi-at"></i>
                 <h4>social:</h4>
                 <p>{% for social in settings.socials %}
                         
                   {% endfor %}
                 </p>
-              </div>
-
-              <!-- ======= <div class="phone">
-                <i class="bi bi-phone"></i>
-                <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
               </div> ======= -->
 
+               <div class="phone">
+                <i class="bi bi-at"></i>
+                <h4>Social:</h4>
+                
+                  <div class="social-links">
+                    <a href="https://twitter.com/studiokurosiwo" class="twitter"><i class="bx bxl-twitter"></i></a>
+                    <a href="https://www.instagram.com/studio_kurosiwo" class="instagram"><i class="bx bxl-instagram"></i></a>
+                    <a href="https://github.com/Studiokurosiwo/" class="github"><i class="bx bxl-github"></i></a>
+                  </div>
+                
+              </div>
             </div>
 
           </div>
 
           <div class="col-lg-8 mt-5 mt-lg-0" data-aos="fade-left">
 
-            <form action="#" name="contact-page" netlify class="contact-form">
+            <form action="forms" method="post" role="form" data-netlify="true"class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
