@@ -1,9 +1,10 @@
 ---
+layout: layouts/works.njk
 title: Kudya Icons
 date: 2020-01-01
 author: Jane Doe
 summary: kudya icons, A collection of Traditional Zambian Food Icons.
-tags:
+tags: 'works'
 ---
 
 <div class="wrapper">

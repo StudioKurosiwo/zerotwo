@@ -1,9 +1,10 @@
 ---
+layout: layouts/works.njk
 title: Zing Ting
 date: 2020-01-01
 author: Jane Doe
 summary: Zing ting was a one day instructor-led hands-on workshop is for designers,artists and anyone else who wants to learn how to create physical interaction devices using the arduino microcontroller in the framework of Fritzing.
-tags:
+tags: 'works'
 ---
 
 <div class="wrapper">
@@ -25,4 +26,3 @@ tags:
   <div class="block-a"><img src="https://res.cloudinary.com/dznoa1hid/image/upload/v1642028975/StudioSKS/Zing%20Ting/fritzing-kit1_yqsyvx.jpg"></div>
   <div class="block-b"></div>
   <footer class="footer"></footer>
-</div><!----end contentwrapper----->
