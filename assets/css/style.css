@@ -244,7 +244,7 @@ h6 {
   }
 
   .navbar ul {
-    display: none;
+    /*display: none;*/
   }
 }
 .navbar-mobile {
@@ -1236,8 +1236,72 @@ h2.abt {
   font-family: 'kuro-bold', sans-serif;
   font-size: 38px;
   font-weight: 700;
-  margin-bottom: 30px;
+  /*margin-bottom: 30px;
   width: 60%;
   letter-spacing: −1px;
+  text-transform: uppercase;*/
+  color: #30316d;
+  font-size: 148px;
+
+  line-height: 0.8;
+  font-weight: 500;
   text-transform: uppercase;
+  background-position: center center;
+  border-color: transparent;
+  border-style: solid;
+}
+
+/*--------------------------------------------------------------
+# mobile nav
+--------------------------------------------------------------*/
+
+.logo {
+  margin: 0;
+  font-size: 1.45em;
+}
+
+.main-nav {
+  margin-top: 5px;
+}
+.logo a,
+.main-nav a {
+  padding: 10px 15px;
+  text-transform: uppercase;
+  text-align: center;
+  display: block;
+}
+
+.main-nav a {
+  color: pink;
+  font-size: 0.99em;
+}
+
+.main-nav a:hover {
+  color: #718daa;
+}
+
+/* ================================= 
+  mobile nav Media Queries
+==================================== */
+
+@media (min-width: 769px) {
+  .header,
+  .main-nav {
+    display: flex;
+  }
+  .header {
+    flex-direction: column;
+    align-items: center;
+  }
+  .header .header {
+    width: 80%;
+    margin: 0 auto;
+    max-width: 1150px;
+  }
+}
+@media (min-width: 1025px) {
+  .header {
+    flex-direction: row;
+    justify-content: space-between;
+  }
 }
