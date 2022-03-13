@@ -1,0 +1,7 @@
+
+@font-face {
+    font-family:".";
+    src:url("kuro-bold.woff2") format("woff2"),url("kuro-bold.woff") format("woff"),url("kuro-bold.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+        

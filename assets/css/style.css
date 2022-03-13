@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: 'kuroregular', sans-serif;
+  font-family: 'kuro-regular', sans-serif;
   color: #444444;
 }
 
@@ -29,11 +29,11 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'kurobold', sans-serif;
+  font-family: 'kuro-bold', sans-serif;
 }
 
 @font-face {
-  font-family: 'kuroregular';
+  font-family: 'kuro-regular';
   src: url('./assets/fonts/kuro-regular-webfont.woff2') format('woff2'),
     url('./assets/fonts/kuro-regular-webfont.woff') format('woff');
   font-weight: normal;
@@ -41,7 +41,7 @@ h6 {
 }
 
 @font-face {
-  font-family: 'kurobold';
+  font-family: 'kuro-bold';
   src: url('./assets/fonts/kuro-bold-webfont.woff2') format('woff2'),
     url('./assets/fonts/kuro-bold-webfont.woff') format('woff');
   font-weight: normal;
@@ -367,7 +367,7 @@ h6 {
   height: auto;
 }
 #hero .btn-get-started {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'kuro', sans-serif;
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 1px;
@@ -502,7 +502,7 @@ section {
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #aaaaaa;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'kuro-bold', sans-serif;
 }
 .section-title h2::after {
   content: '';
@@ -518,7 +518,7 @@ section {
   font-size: 36px;
   font-weight: 700;
   text-transform: uppercase;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'kuro-bold', sans-serif;
   color: #2a2c39;
 }
 
@@ -1065,7 +1065,7 @@ section {
   font-weight: 700;
   color: #fff;
   position: relative;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'kuro-bold', sans-serif;
   padding: 0;
   margin: 0 0 15px 0;
 }
@@ -1081,11 +1081,11 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #ef6603;
+  /*background: #ef6603;*/
   color: #fff;
   line-height: 1;
   padding: 8px 0;
-  margin-right: 4px;
+  margin-right: 80px;
   border-radius: 50%;
   text-align: center;
   width: 36px;
@@ -1093,8 +1093,8 @@ section {
   transition: 0.3s;
 }
 #footer .social-links a:hover {
-  background: #bd5102;
-  color: #fff;
+  text-emphasis-color: #bd5102;
+  color: #bd5102;
   text-decoration: none;
 }
 #footer .copyright {
@@ -1230,4 +1230,14 @@ h2.abt {
 
 .external-link {
   margin-top: 1rem;
+}
+
+.frontheadline {
+  font-family: 'kuro-bold', sans-serif;
+  font-size: 38px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  width: 60%;
+  letter-spacing: −1px;
+  text-transform: uppercase;
 }

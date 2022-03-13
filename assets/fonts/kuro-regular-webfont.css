@@ -1,0 +1,7 @@
+
+@font-face {
+    font-family:"Kuro Regular";
+    src:url("kuro-regular-webfont.woff2") format("woff2"),url("kuro-regular-webfont.woff") format("woff"),url("kuro-regular-webfont.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+        
