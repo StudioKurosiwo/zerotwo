@@ -1250,3 +1250,18 @@ h2.abt {
   border-color: transparent;
   border-style: solid;
 }
+
+h2,
+.frontheadline {
+  font-size: clamp(var(--min), var(--val), var(--max));
+}
+h2 {
+  --min: 2em;
+  --val: 5vw;
+  --max: 3em;
+}
+.frontheadline {
+  --min: 3em;
+  --val: 4.5vw;
+  --max: 4em;
+}
