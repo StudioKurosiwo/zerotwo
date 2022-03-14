@@ -20,7 +20,7 @@ tags: 'works'
                 </p>
               </div>
               <div class="col-lg-6 order-2 order-lg-2 text-center">
-                <img src="/assets/img/portfolio/Douglas-Driving-School-in-Manchester-The-key-.png" alt="" class="img-fluid">
+                <img src="/assets/img/portfolio/Douglas-Driving-School-user-options_tugfeh.png" alt="" class="img-fluid">
               </div>
             </div>
           </div>
@@ -34,7 +34,7 @@ tags: 'works'
 <p>The slider displays the students that have passed giving visual  testimonials to the effectiveness of Douglas Driving School’s tuition.
 
   </p>
-  <div class="external-link"><a href="https://www.douglasdrivingschool.com/">visit Douglas Driving School</a>
+  <div class="external-link p-5"><a href="https://www.douglasdrivingschool.com/">visit Douglas Driving School --></a>
 </div>
 
 </div>

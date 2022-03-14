@@ -33,7 +33,7 @@ tags: 'works'
                 <p>I decided to incorporate svg icons that could illustrate and visually explain the traditionally named dishes and could possibly be adapted for use on restaurant menus and food stalls. Kudya means to eat in local Southern central languages Nyanja and Chichewa.</p>
 
   </p>
-  <div class="external-link"><a href="https://www.kudyaicons.com/">visit kudya icons</a>
+  <div class="external-link p-5"><a href="https://www.kudyaicons.com/">visit kudya icons --></a>
 </div>
 
 </div>

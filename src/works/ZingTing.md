@@ -33,7 +33,7 @@ tags: 'works'
                 </h3>
                 <p>Fritzing is an open-source initiative to support designers, artists, researchers and hobbyists to work creatively with interactive electronics. Fritzing streamlines the design process, making it easier to get from design to prototype to production. Zing Ting was part of London Design Festival 2010, The festival seeks to celebrate and promote London as the design capital of the world.</p>
 
-  <div class="external-link"><a href="https://www.zingting.co.uk/">visit zing ting</a>
+  <div class="external-link p-5"><a href="https://www.zingting.co.uk/">visit zing ting --></a>
 </div>
 
 </div>

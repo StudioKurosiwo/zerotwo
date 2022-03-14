@@ -36,12 +36,11 @@ tags: 'works'
 This was a pro-bono project and I’m happy to work with good causes occasionally as a pro-bono but most likely at reduced rates that reflect their budgetary constraints.
 
 </p>
+<div class="external-link p-5"><a href="https://www.childlifetouch.org/">visit child life touch --></a>
+</div>
 </div>
 <div class="col-lg-6 order-1 order-lg-2 text-center">
 <img src="/assets/img/portfolio/Child-Life-Touch-about.png" alt="Child Life Touch " class="img-fluid">
-
-<div class="external-link"><a href="https://www.childlifetouch.org/">visit child life touch</a>
-</div>
 
 </div>
 
