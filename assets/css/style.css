@@ -1080,8 +1080,8 @@ section {
 }
 #footer .social-links a {
   font-size: 18px;
-  display: inline-block;
-  /*background: #ef6603;*/
+  /*display: inline-block;
+  background: #ef6603;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1090,7 +1090,7 @@ section {
   text-align: center;
   width: 36px;
   height: 36px;
-  transition: 0.3s;
+  transition: 0.3s;*/
 }
 #footer .social-links a:hover {
   text-emphasis-color: #bd5102;
