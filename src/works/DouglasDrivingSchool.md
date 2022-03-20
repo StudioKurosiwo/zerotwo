@@ -10,7 +10,7 @@ tags: 'works'
           <h2>Works</h2>
           <p>Douglas Driving school</p>
         </div><div class="row"><div class="member" data-aos="fade-up">
-    <div class="col-sm-12"><p><img src="/assets/img/portfolio/Douglas-Driving-School-hero-img-logolrg_p5vnek.png" class="img-fluid hero" alt="Child-Life-Touch-hero"></p>
+    <div class="col-sm-12"><p><img src="/assets/img/portfolio/Douglas-Driving-School-hero-img-logolrg_p5vnek.png" class="img-fluid hero" alt="Douglas Driving school-hero"></p>
      <div class="tab-pane" id="tab-3">
             <div class="row">
               <div class="col-lg-6 order-1 order-lg-1 mt-3 mt-lg-0">
