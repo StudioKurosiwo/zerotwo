@@ -1257,6 +1257,8 @@ h2 {
   --min: 3em;
   --val: 4.5vw;
   --max: 4em;
+  letter-spacing: -.025em !important;
+  line-height: .96;
 }
 
 /*.span1 {
@@ -1266,5 +1268,10 @@ h2 {
 }*/
 
 .parafront.p-3 {
-  font-size: xx-large;
+  /*font-size: xx-large;*/
+  
+}
+
+.p-3 {
+  padding: 0;
 }
