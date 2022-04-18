@@ -1261,17 +1261,13 @@ h2 {
   line-height: .96;
 }
 
-/*.span1 {
-  margin-bottom: 30px;
-  font-size: 48px;
-  font-weight: 700;
-}*/
-
-.parafront.p-3 {
-  /*font-size: xx-large;*/
-  
+.front {
+  height: 70vh;
+  padding-top: 15%;
 }
 
-.p-3 {
-  padding: 0;
-}
+.amp {
+  font-family: Baskerville, 'Goudy Old Style', Palatino, 'Book Antiqua', serif;
+  font-style: italic;
+  font-weight: bold;
+  }
