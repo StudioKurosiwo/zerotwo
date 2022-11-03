@@ -1271,3 +1271,25 @@ h2 {
   font-style: italic;
   font-weight: bold;
   }
+
+/*--------------------------------------------------------------
+# new styles
+--------------------------------------------------------------*/
+
+
+  @media (min-width: 1024px)
+.hero__title {
+  font-size: 3.3em;
+}
+.hero__title {
+  margin-top: 0;
+}
+.gradient-text {
+  background: linear-gradient(130deg,#5183f5,#af002d 41.07%,#c79191 76.05%);
+    background-clip: border-box;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+h1 {
+  font-size: 2.35em;
+}
