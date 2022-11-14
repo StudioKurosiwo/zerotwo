@@ -1219,6 +1219,10 @@ section {
 # aboutsips h2, aboutsip p
 --------------------------------------------------------------*/
 
+.member-info.sp {
+  padding-top: 20%;
+}
+
 .abt,
 h2.abt {
   padding-left: 11%;
@@ -1290,6 +1294,23 @@ h2 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
 h1 {
   font-size: 2.35em;
 }
+
+
+.hero__subtitle {
+  margin-top: 3rem;
+}
+.hero__subtitle {
+  margin-top: 0;
+}
+h2 {
+  font-size: 2em;
+}
+
+/* front page css grid */
+
+
+
